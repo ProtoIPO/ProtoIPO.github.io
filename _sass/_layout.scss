@@ -1,14 +1,41 @@
 .cover {
-    min-height: 474px;
+    min-height: 560px;
     background: #CCC;
-}
-
-.cover.small {
-    min-height: 237px;
+    color: #fff;
+    &.small {
+        min-height: 0;
+    }
 }
 
 .text {
     padding: 2em;
     font-size: 20px;
     text-align: justify;
+}
+
+#header, #footer{
+    background: #01B1F0;
+    color: #fff;
+    a {
+        color: #fff;
+    }
+}
+
+.center {
+    text-align: center;
+}
+
+#who-are-we {
+    background: url("/img/who-are-we.png") center top no-repeat fixed !important;
+    background-size: cover;
+}
+
+#what-do-we-do {
+    background: url("/img/what-do-we-do.png") center top no-repeat fixed !important;
+    background-size: cover;
+}
+
+#where-can-you-find-us {
+    background: url("/img/where-can-you-find-us.png") center top no-repeat fixed !important;
+    background-size: cover;
 }

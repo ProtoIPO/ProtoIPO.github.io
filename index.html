@@ -5,17 +5,15 @@ layout: default
 <div class="row">
     <div class="col-md-6 col-md-offset-3">
         <img src="{{ "/img/protoipo.svg" | prepend: site.baseurl }}" width="100%">
-        <p style="font-size: 24px; text-align: center; margin-top: -7em; margin-bottom: 7em;">
+        <p style="font-size: 24px; text-align: center; margin-top: -30%; margin-bottom: 30%;">
             {% include tagline.md %}
         </p>
     </div>
 </div>
-<div class="row" style="position: relative; top: -13em">
-    <div class="col-md-6 col-md-offset-3">
-
-    </div>
+<div id="header" class="row cover small">
+    {% include links.html %}
 </div>
-<div class="row cover">
+<div id="who-are-we" class="row cover">
     <div style="font-size: 64px; margin: 0 auto; text-align: center; position: relative; top: 237px; margin-top: -0.5em">
         Who are we?
     </div>
@@ -25,7 +23,7 @@ layout: default
         {% include who-we-are.md %}
     </div>
 </div>
-<div class="row cover">
+<div id="what-do-we-do" class="row cover">
     <div style="font-size: 64px; margin: 0 auto; text-align: center; position: relative; top: 237px; margin-top: -0.5em">
         What do we do?
     </div>
@@ -35,7 +33,7 @@ layout: default
         {% include what-we-do.md %}
     </div>
 </div>
-<div class="row cover">
+<div id="where-can-you-find-us" class="row cover">
     <div style="font-size: 64px; margin: 0 auto; text-align: center; position: relative; top: 237px; margin-top: -0.5em">
         Where can you find us?
     </div>
@@ -45,6 +43,6 @@ layout: default
         {% include where-to-find-us.md %}
     </div>
 </div>
-<div class="row cover small">
-    <!-- footer -->
+<div id="footer" class="row cover small">
+    {% include links.html %}
 </div>
