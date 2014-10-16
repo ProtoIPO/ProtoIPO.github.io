@@ -43,3 +43,9 @@
     background: #606163 url("/img/where-can-you-find-us.png") center top no-repeat fixed !important;
     background-size: cover;
 }
+
+@include media-query($tablet) {
+    .cover {
+        max-height: 480px;
+    }
+}
