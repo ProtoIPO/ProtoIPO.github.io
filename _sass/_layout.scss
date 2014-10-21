@@ -2,6 +2,7 @@
     min-height: 560px;
     background: #CCC;
     color: #fff;
+    text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
     &.small {
         min-height: 0;
     }
