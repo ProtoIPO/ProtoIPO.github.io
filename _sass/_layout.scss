@@ -10,12 +10,18 @@
     }
 }
 
+.cover-title-container {
+    display: table;
+    height: 560px;
+    width: 100%;
+}
+
 .cover-title {
     font-size: 64px;
     margin: 0 auto;
     text-align: center;
-    position: relative;
-    top: 236px;
+    display: table-cell;
+    vertical-align: middle;
 }
 
 .text {
