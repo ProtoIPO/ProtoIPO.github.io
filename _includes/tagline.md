@@ -1,1 +1,1 @@
-We are building the new foundation for capital investment.
+Building the new foundation for capital investment.
