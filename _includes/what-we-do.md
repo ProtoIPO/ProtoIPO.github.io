@@ -1,4 +1,4 @@
-![Fundamint Platform](/img/fundamint.svg)
+<span class="center"><img alt="Fundamint Logo" src="/img/fundamint.svg"></span>
 
 Our product, the Fundamint Platform, is managed software and infrastructure we created for brokers
 and funding organizations facilitating capitalization. As a foundation of security, reliability,
