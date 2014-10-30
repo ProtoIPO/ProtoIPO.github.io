@@ -1,10 +1,4 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum
-mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis
-dolor. Praesent et diam eget libero egestas mattis sit amet vitae augue. Nam tincidunt congue enim,
-ut porta lorem lacinia consectetur. Donec ut libero sed arcu vehicula ultricies a non tortor. Lorem
-ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut gravida lorem. Ut turpis felis,
-pulvinar a semper sed, adipiscing id dolor. Pellentesque auctor nisi id magna consequat sagittis.
-Curabitur dapibus enim sit amet elit pharetra tincidunt feugiat nisl imperdiet. Ut convallis libero
-in urna ultrices accumsan. Donec sed odio eros. Donec viverra mi quis quam pulvinar at malesuada
-arcu rhoncus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-In rutrum accumsan ultricies. Mauris vitae nisi at sem facilisis semper ac in est.
+ProtoIPO, Inc. was formed in early 2012 with the mission of reducing friction in capital markets.
+We are a team that combines our strong technical base and financial industry experience to provide
+products, services, and infrastructure towards that mission. We are built upon both existing deal
+structures, and changes made in the Jumpstart Our Business Startups (JOBS) Act.

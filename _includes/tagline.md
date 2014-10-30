@@ -1,1 +1,1 @@
-We make things, and we make them well.
+We are building the new foundation for capital investment.
