@@ -55,46 +55,18 @@
 }
 
 #who-are-we {
-    background: #606163 url("/img/who-are-we.png") center no-repeat fixed !important;
+    background: #606163 url("/img/who-are-we.jpg") center no-repeat fixed !important;
     background-size: cover;
 }
 
 #what-do-we-do {
-    background: #606163 url("/img/what-do-we-do.png") center no-repeat fixed !important;
+    background: #606163 url("/img/what-do-we-do.jpg") center no-repeat fixed !important;
     background-size: cover;
 }
 
 #where-can-you-find-us {
-    background: #606163 url("/img/where-can-you-find-us.png") center no-repeat fixed !important;
+    background: #606163 url("/img/where-can-you-find-us.jpg") center no-repeat fixed !important;
     background-size: cover;
-}
-
-@include media-query($medium) {
-    #who-are-we {
-        background: #606163 url("/img/who-are-we-1080.png") center no-repeat fixed !important;
-    }
-
-    #what-do-we-do {
-        background: #606163 url("/img/what-do-we-do-1080.png") center no-repeat fixed !important;
-    }
-
-    #where-can-you-find-us {
-        background: #606163 url("/img/where-can-you-find-us-1080.png") center no-repeat fixed !important;
-    }
-}
-
-@include media-query($laptop) {
-    #who-are-we {
-        background: #606163 url("/img/who-are-we-800.png") center no-repeat fixed !important;
-    }
-
-    #what-do-we-do {
-        background: #606163 url("/img/what-do-we-do-800.png") center no-repeat fixed !important;
-    }
-
-    #where-can-you-find-us {
-        background: #606163 url("/img/where-can-you-find-us-800.png") center no-repeat fixed !important;
-    }
 }
 
 @include media-query($tablet) {
